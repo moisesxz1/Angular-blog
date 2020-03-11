@@ -1,0 +1,6 @@
+Bootstrap npm install bootstrap --save
+jQuery : npm install jQuery --save
+@types jquery: npm install @types/jquery  --save || para mejorar la compatibilidad con angular
+angular2 moment: npm install angular2-moment --save
+angular file uploader: npm install angular-file-uploader --save
+ngx hihglight: npm i @nowzoo/ngx-highlight-js @nowzoo/sheetload --save || js para remarcar y resaltar el codigo fuente que la gente coloque en el foro
